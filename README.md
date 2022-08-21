@@ -20,7 +20,7 @@ Here's a walkthrough of implemented features:
 
 
 
-<img src='"C:\Users\jgarc\OneDrive\Desktop\Android\jv_helloworld.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='jv_helloworld.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
